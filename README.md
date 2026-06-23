@@ -15,7 +15,7 @@ and if you are changing the font you have to list the address or see if magick i
 
 change the text in the bg.txt file to the text you want your background to be
 
-then ~/<YOUR DIR THAT YOU JUST MADE>/bg-script.lua
+then ~/YOURDIR/bg-script.lua
 
 if your unhapppy with the bg just pkill swaybg
 
