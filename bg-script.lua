@@ -1,9 +1,5 @@
 #!/usr/bin/env lua                                                                                                                                                                                                                                     
---Config Vars                                                                                                                                                             
-local user = os.getenv("USER")                                                                                                                                            
-local project_dir = "/home/"..user.."/.text-to-bg"                                                                                                                        
-local bg_text = project_dir.."/bg.txt"                                                                                                                                    
-local output_img = project_dir.."/bg.png"                                                                                                         
+                                                                                                        
                                                                                      
 --Config Vars                                                                        
 local user = os.getenv("USER")                                                       
